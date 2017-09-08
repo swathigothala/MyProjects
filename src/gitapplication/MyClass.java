@@ -17,6 +17,11 @@ public class MyClass {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("My GIT Application");
+        
     }
     
+    public int getClastrhgs()
+    {
+        return 5;
+    }
 }
