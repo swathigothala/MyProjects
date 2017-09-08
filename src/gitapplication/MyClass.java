@@ -24,4 +24,9 @@ public class MyClass {
     {
         return 5;
     }
+    
+    public void getsdfsdfdg()
+    {
+        
+    }
 }
